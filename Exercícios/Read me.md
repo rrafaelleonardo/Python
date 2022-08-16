@@ -9,3 +9,5 @@ Aula 01 - Variáveis e Objetos
 Aula 02 - Estruturas de Decisão
 
 Aula 03 - Estruturas de Repetição
+
+Aula 04 - Listas
