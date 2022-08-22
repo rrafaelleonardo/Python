@@ -13,3 +13,5 @@ Aula 03 - Estruturas de Repetição
 Aula 04 - Listas
 
 Aula 05 - Dicionários, Sets e Tuplas
+
+Aula 06 - Numpy
