@@ -15,3 +15,5 @@ Aula 04 - Listas
 Aula 05 - Dicionários, Sets e Tuplas
 
 Aula 06 - Numpy
+
+Aula 07 - Pandas
