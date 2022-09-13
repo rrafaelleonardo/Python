@@ -17,3 +17,5 @@ Aula 05 - Dicionários, Sets e Tuplas
 Aula 06 - Numpy
 
 Aula 07 - Pandas
+
+Aula 08 -  Módulos e Pacotes
